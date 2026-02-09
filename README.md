@@ -1,6 +1,8 @@
 Smart Space Monitoring & Data Analytics System
 AI-Powered Vision System for Facility Management
-
+<p>
+  <img src = "BoundingBox.png">
+</p>
 📌 บทสรุปโครงการ (Project Overview)
 พัฒนาระบบตรวจจับและวิเคราะห์ความหนาแน่นการใช้งานพื้นที่แบบ Real-time โดยใช้เทคโนโลยี Edge AI เพื่อเปลี่ยนข้อมูลภาพจากกล้องวงจรปิดให้เป็นข้อมูลเชิงสถิติ (Structured Data) สำหรับนำไปใช้ในการบริหารจัดการทรัพยากรอาคาร (Smart Facility Management) อย่างมีประสิทธิภาพ
 
