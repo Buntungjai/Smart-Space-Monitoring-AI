@@ -22,7 +22,9 @@ OpenCV: จัดการ Stream ข้อมูลภาพจากกล้�
 Database:
 
 SQLite: จัดเก็บข้อมูลการตรวจจับ (Logging) เพื่อใช้ในการวิเคราะห์ย้อนหลัง
-
+<p>
+  <img src = "DBbrowser.jpg">
+</p>
 ⚙️ คุณสมบัติเด่นของระบบ (Key Features)
 Autonomous Monitoring: ตรวจจับบุคคลและอุปกรณ์สำนักงาน (Person, Keyboard, Laptop) ได้แบบอัตโนมัติ (สามารถเพิ่มอุปกรณ์อื่นๆได้อีก)
 
