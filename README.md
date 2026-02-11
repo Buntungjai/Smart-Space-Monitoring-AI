@@ -8,8 +8,9 @@ https://youtu.be/NTQSLex_IPo
 พัฒนาระบบตรวจจับและวิเคราะห์ความหนาแน่นการใช้งานพื้นที่แบบ Real-time โดยใช้เทคโนโลยี AI เพื่อเปลี่ยนข้อมูลภาพจากกล้องวงจรปิดให้เป็นข้อมูลเชิงสถิติ (Structured Data) สำหรับนำไปใช้ในการบริหารจัดการทรัพยากรอย่างมีประสิทธิภาพ
 
 🛠️ เทคโนโลยีที่เลือกใช้ 
-<img width="1080" height="1920" alt="device" src="https://github.com/user-attachments/assets/0b03d796-1247-4237-97ea-002d9d428f18" />
-
+<p align="center">
+  <img src="device.png" width="400">
+</p>
 Hardware: * NVIDIA Jetson Nano: ประมวลผล AI Inference (Computing)
 
 ESP32-CAM: อุปกรณ์รับภาพต้นทางผ่านโปรโตคอล HTTP Stream
