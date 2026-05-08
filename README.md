@@ -1,8 +1,8 @@
 Smart Space Monitoring & Data Analytics System
 AI-Powered Vision System for Facility Management
 https://youtu.be/NTQSLex_IPo
-<p>
-  <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/BoundingBox.png" width="400">
+<p align="center">
+  <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/BoundingBox.png" width="600">
 </p>
 📌 Project Overview
 พัฒนาระบบตรวจจับและวิเคราะห์ความหนาแน่นการใช้งานพื้นที่แบบ Real-time โดยใช้เทคโนโลยี AI เพื่อเปลี่ยนข้อมูลภาพจากกล้องวงจรปิดให้เป็นข้อมูลเชิงสถิติ (Structured Data) สำหรับนำไปใช้ในการบริหารจัดการทรัพยากรอย่างมีประสิทธิภาพ
@@ -26,8 +26,8 @@ OpenCV: จัดการ Stream ข้อมูลภาพจากกล้�
 Database:
 
 SQLite: จัดเก็บข้อมูลการตรวจจับ (Logging) เพื่อใช้ในการวิเคราะห์ย้อนหลัง
-<p>
-  <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/DBbrowser.jpg" width="400">
+<p align="center">
+  <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/DBbrowser.jpg" width="600">
 </p>
 ⚙️ คุณสมบัติเด่นของระบบ (Key Features)
 Autonomous Monitoring: ตรวจจับบุคคลและอุปกรณ์สำนักงาน (Person, Keyboard, Laptop) ได้แบบอัตโนมัติ (สามารถเพิ่มอุปกรณ์อื่นๆได้อีก)
