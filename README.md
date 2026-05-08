@@ -9,7 +9,7 @@ https://youtu.be/NTQSLex_IPo
 
 🛠️ เทคโนโลยีที่เลือกใช้ 
 <p align="center">
-  <img src="device.png" width="400">
+  <img src="https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/device.png" width="400">
 </p>
 Hardware: * NVIDIA Jetson Nano: ประมวลผล AI Inference (Computing)
 
