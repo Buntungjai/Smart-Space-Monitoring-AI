@@ -4,13 +4,15 @@ https://youtu.be/NTQSLex_IPo
 <p align="center">
   <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/BoundingBox.png" >
 </p>
+<br>
 📌 Project Overview
 พัฒนาระบบตรวจจับและวิเคราะห์ความหนาแน่นการใช้งานพื้นที่แบบ Real-time โดยใช้เทคโนโลยี AI เพื่อเปลี่ยนข้อมูลภาพจากกล้องวงจรปิดให้เป็นข้อมูลเชิงสถิติ (Structured Data) สำหรับนำไปใช้ในการบริหารจัดการทรัพยากรอย่างมีประสิทธิภาพ
-
+<br>
 🛠️ เทคโนโลยีที่เลือกใช้ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/device.png" width="400">
 </p>
+<br>
 Hardware: * NVIDIA Jetson Nano: ประมวลผล AI Inference (Computing)
 
 ESP32-CAM: อุปกรณ์รับภาพต้นทางผ่านโปรโตคอล HTTP Stream
@@ -29,13 +31,14 @@ SQLite: จัดเก็บข้อมูลการตรวจจับ (L
 <p align="center">
   <img src = "https://raw.githubusercontent.com/Buntungjai/Smart-Space-Monitoring-AI/main/DBbrowser.jpg" >
 </p>
+<br>
 ⚙️ คุณสมบัติเด่นของระบบ (Key Features)
 Autonomous Monitoring: ตรวจจับบุคคลและอุปกรณ์สำนักงาน (Person, Keyboard, Laptop) ได้แบบอัตโนมัติ (สามารถเพิ่มอุปกรณ์อื่นๆได้อีก)
 
 Data Persistence: แปลงผลการตรวจจับจาก AI ให้เป็นชุดข้อมูลในรูปแบบ Relational Database (SQL) เพื่อความสะดวกในการทำ Data Analytics
 
 Fault Tolerance: มีระบบ Reconnection Logic เมื่อสัญญาณภาพจากกล้องขัดข้อง เพื่อให้ระบบทำงานได้ต่อเนื่อง 
-
+<br>
 💻 โครงสร้างของข้อมูล (Data Schema)
 ระบบจัดเก็บข้อมูลลงใน detections.db โดยมีโครงสร้างดังนี้:
 
